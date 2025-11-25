@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/Sentinel%20Logo.jpg" alt="Sentinel Logo" width="300"/>
+</p>
+
 # S E N T I N E L
 
 [**Sentinel :- Deployed Link**](https://sentinel-55600892774.us-west1.run.app/)
@@ -17,6 +21,12 @@
 **Sentinel** is not a search engine. It is an **Agentic AI Orchestrator** designed to automate the workflow of a top-tier strategy consultant. 
 
 By chaining specialized AI agents, Sentinel autonomously hunts for real-time market data, scrapes high-signal intelligence, performs deep strategic reasoning (SWOT), and quantifies the abstract—turning messy web data into clear, scored metrics like **Innovation**, **Velocity**, and **Market Share**.
+
+---
+
+<p align="center">
+  <img src="./assets/Screenshot%20Glimpse.png" alt="Sentinel Dashboard Screenshot" width="800"/>
+</p>
 
 ---
 
