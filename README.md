@@ -18,7 +18,7 @@
 
 ## ⚡ The Purpose
 
-**Sentinel** is not a search engine. It is an **Agentic AI Orchestrator** designed to automate the workflow of a top-tier strategy consultant. 
+**Sentinel** is not just a usual search engine. It is an **Agentic AI Orchestrator** designed to automate the workflow of a top-tier strategy consultant. 
 
 By chaining specialized AI agents, Sentinel autonomously hunts for real-time market data, scrapes high-signal intelligence, performs deep strategic reasoning (SWOT), and quantifies the abstract—turning messy web data into clear, scored metrics like **Innovation**, **Velocity**, and **Market Share**.
 
