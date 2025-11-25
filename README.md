@@ -276,9 +276,9 @@ If you encounter quota-related errors when running locally with a free-tier Gemi
     ```
 
 3.  **Configure Environment**
-    Create a `.env` file in the root:
+    Create a `.env.local` file in the root:
     ```env
-    API_KEY=your_google_gemini_api_key_here
+    GEMINI_API_KEY=your_google_gemini_api_key_here
     ```
 
 4.  **Run the Operator Console**
