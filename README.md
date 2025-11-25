@@ -1,6 +1,6 @@
-# ⿗ S E N T I N E L
+# S E N T I N E L
 
-[**Deployed App**](https://sentinel-55600892774.us-west1.run.app/)
+[**Sentinel :- Deployed Link**](https://sentinel-55600892774.us-west1.run.app/)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![React](https://img.shields.io/badge/react-v19.0-61DAFB?logo=react)
@@ -12,38 +12,7 @@
 
 ---
 
-## ⚠️ Important Note
-
-**For the best experience, please use the [deployed application](https://sentinel-55600892774.us-west1.run.app/).**
-
-If you encounter quota-related errors when running locally with a free-tier Gemini API key, this is expected behavior due to API rate limitations. The deployed version is configured with appropriate API access to ensure uninterrupted service.
-
----
-
-## 📁 File Structure
-
-```
-/
-├── components/
-│   ├── AgentVisualizer.tsx
-│   ├── ComparisonView.tsx
-│   ├── HistoryView.tsx
-│   ├── ReportView.tsx
-│   └── Sidebar.tsx
-├── services/
-│   └── geminiService.ts
-├── App.tsx
-├── constants.ts
-├── index.html
-├── index.tsx
-├── metadata.json
-├── README.md
-└── types.ts
-```
-
----
-
-## ⚡ The Mission
+## ⚡ The Purpose
 
 **Sentinel** is not a search engine. It is an **Agentic AI Orchestrator** designed to automate the workflow of a top-tier strategy consultant. 
 
@@ -110,6 +79,28 @@ Sentinel employs a multi-step, state-machine architecture powered by Google's **
 5.  **📝 Reporter Agent** (`gemini-2.5-flash`)
     *   **Role:** The Closer.
     *   **Task:** Compiles everything into a C-Level Executive Markdown report.
+
+---
+## 📁 File Structure
+
+```
+/Sentinel.
+├── components/
+│   ├── AgentVisualizer.tsx
+│   ├── ComparisonView.tsx
+│   ├── HistoryView.tsx
+│   ├── ReportView.tsx
+│   └── Sidebar.tsx
+├── services/
+│   └── geminiService.ts
+├── App.tsx
+├── constants.ts
+├── index.html
+├── index.tsx
+├── metadata.json
+├── README.md
+└── types.ts
+```
 
 ---
 
@@ -241,6 +232,14 @@ Talk to your data.
 *   **Styling:** Tailwind CSS (Custom "Dark Sentinel" Theme).
 *   **Visualization:** Custom SVG Radar Charts.
 *   **Rendering:** React Markdown + GFM.
+
+---
+
+## ⚠️ Important Note
+
+**For the best experience, please use the [deployed application](https://sentinel-55600892774.us-west1.run.app/).**
+
+If you encounter quota-related errors when running locally with a free-tier Gemini API key, this is expected behavior due to API rate limitations. The deployed version is configured with appropriate API access to ensure uninterrupted service.
 
 ---
 
